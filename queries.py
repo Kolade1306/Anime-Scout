@@ -1,5 +1,5 @@
 import pandas as pd
-import psycopg2
+# import psycopg2
 import sqlite3
 import streamlit as st
 
